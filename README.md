@@ -42,4 +42,4 @@ Built using **Python**, **Scikit-learn**, and **Streamlit**.
 - Pickle
 
 ---
-
+https://github.com/user-attachments/assets/0011c3ce-11c1-4ea1-8176-4fd919028dd4
