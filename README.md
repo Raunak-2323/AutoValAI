@@ -2,7 +2,7 @@
 
 AutoValAI is a Machine Learning-based web application that predicts the price of a used car based on various input features like brand, year, mileage, fuel type, transmission, etc.
 
-Built with ❤️ using **Python**, **Scikit-learn**, and **Streamlit**.
+Built using **Python**, **Scikit-learn**, and **Streamlit**.
 
 ---
 
