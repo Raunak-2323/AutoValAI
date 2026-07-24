@@ -3,7 +3,7 @@ import pandas as pd
 import pickle as pk
 
 # Title
-st.title("🚗 Car Price Prediction")
+st.title(" Car Price Prediction")
 
 # Load model
 try:
@@ -50,4 +50,4 @@ if st.button("Predict Price"):
                                      'mileage', 'engine', 'max_power', 'seats'])
 
     prediction = model.predict(input_df)
-    st.success(f"💰 Estimated Price: ₹ {prediction[0]:,.2f}")
+    st.success(f" Estimated Price: ₹ {prediction[0]:,.2f}")
